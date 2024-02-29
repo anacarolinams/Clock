@@ -17,7 +17,7 @@ Olá, seja bem vindo ao meu pequeno projeto de relógio com calendário abreviad
 
 # :open_file_folder: Como abrir e rodar o projeto?
 
-É facil, basta clicar no neste [link]() e você será direcionado para o site, onde poderá testar as funcionalidades do projeto.
+É facil, basta clicar no neste [link](https://clock-beige-omega.vercel.app/) e você será direcionado para o site, onde poderá testar as funcionalidades do projeto.
 
 # 💻 Feito por:
 
